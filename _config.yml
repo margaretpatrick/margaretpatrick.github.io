@@ -1,10 +1,10 @@
 # Site settings
-title:       Pratyush Kumar
-email:       me@pratyushkumar.me
-author:      Pratyush Kumar
-description: "A Data Science blog."
+title:       Margaret Patrick
+email:       raphaelmeg@gmail.com
+author:      Margaret Patrick
+description: "A personal blog."
 baseurl:     ""
-url:         "https://pratyushkumar.me"
+url:         "http://margaretshipra.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -38,18 +38,18 @@ disqus_shortname: pratyushkumar
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments: false
-facebook_appid: https://www.facebook.com/pratyush.kumar.19
+facebook_appid: https://www.facebook.com/margaret.patrick.12
 facebook_comments_number: 10
 
 # Social icons
-github_username: pratyush19
+github_username: margaretpatrick
 bitbucket_username:
 stackoverflow_id:
 twitter_username: 
 skype_username:
 steam_nickname:
 google_plus_id: 
-linkedin_username: pratyush19
+linkedin_username: margaret-patrick-87b00a53
 kaggle_username: 
 angellist_username:
 medium_id:

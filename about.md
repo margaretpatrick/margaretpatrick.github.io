@@ -5,7 +5,7 @@ permalink: /about/
 tags: about
 ---
 <p align="center">
-<img src="/images/shipra.jpeg"/>
+<img src="/images/shipra.jpeg" width="240" height = "320"/>
 </p>
 <br />
 Hi! I'm Margaret Shipra Patrick. 

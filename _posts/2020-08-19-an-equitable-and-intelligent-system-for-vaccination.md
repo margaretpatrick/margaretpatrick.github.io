@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      An Equitable and Intelligent System for Vaccination
+date:       2020-08-19
+summary:    COVID-19, Vaccine, Vaccination, Technology, Blockchain
+categories: blog
+---
+
+
+Vaccines are not usually a dinner table topic but given the state of affairs today, that has changed. With steadily increasing covid19 cases an effective vaccine becomes the most awaited and anticipated thing of 2020. Although Russia seems to be winning the race, the rest of the world is still running with the hope of reaching the destination as soon as possible. Not only are the concerned bodies anxious but the whole world is desperately waiting for the sanjeevani booti (elixir) which would help us to reboot our daily lives without a sense of fear. 
+
+The race for the vaccine started as soon as the pestiferous disease came and in the present date, Gamaleya Research Institute and the country’s Defence Ministry jointly developed a vaccine in Russia, which is most probably expected to be the first vaccine against the novel coronavirus.  Early in 2020, more than 150 countries set in the race to bring the vaccine, with the US and Germany pumping in most funds. The US was the first country to start a human trial in mid-March on 45 healthy adults aged 18 to 55 after promising results in animal models. In April Germany’s BioNTech and American partner Pfizer announced the beginning of clinical trials in humans followed by the University Of Oxford in late April thus marking the commencement of trials. Different countries went under a lot of vicissitudes in the development process and China was working on the highest number of vaccines in the clinical phase by June followed by the US, UK, and Germany.
+ India also took its step and invested in various funds for the development of vaccine and today approximately 30 companies in India are involved in the research process out of which WHO has given approvals to seven vaccine candidates, which are in different stages of testing and clinical studies now. COVAXIN, developed by Hyderabad-based Bharat Biotech International Limited (BBIL), in alliance with ICMR and NIV, Pune, it was the first vaccine to get regulatory approvals for clinical trials.
+ 
+Ahmedabad-based pharma giant, Zydus Cadila declared the commencement of phase I of the testing process of its vaccine ZyCOV-D. The company is testing two versions of its vaccine, one which makes use of molecular DNA to draw forth an immune response, the latter uses a live measles viral strain to provide protection.
+
+British-Swedish pharma AstraZeneca is currently involved in the development of vaccines with the University of Oxford. The vaccine prototype is currently in phase III of testing. The company has tied up with Pune based Serum Institute of India (SII) to mass-produce the vaccine once the company gets required approvals and licensing from medical boards. AstraZeneca is also hopeful of starting human trials of its vaccine in India, starting August.
+
+
+## STRATAGEM
+
+India needs to make a blueprint of how to distribute the vaccine once available, it would certainly ace up the distribution process. Policy needs to be formulated according to usage; priority should be given to senior citizens and frontline workers (doctors, municipal workers, hospital attendants, security staff, police personnel, pharmacist, vegetable vendors, banks personnel, etc.) who pose a higher risk due to continuous exposure to the novel coronavirus. The vaccine will not be available in sufficient amounts when produced, therefore we need to be ready with the priority list to control the situation as soon as possible. A computerised data needs to be maintained to ascertain who needs vaccines the most, people who have already recovered need not be at risk rather they can be a donor for antibodies. Special attention should be given to the populations that are missed by routine vaccination services and include the hard-to-reach and underserved among others. The primary goal should be to find and immunize populations missed by routine vaccination services.
+
+Special populations include:urban poor and migrant populations; remote, difficult to reach (e.g. inhabiting terrain difficult to access, such as mountains) and nomadic populations; persons living in areas of civil conflict or insecurity; populations resisting vaccination and anti-vaccine groups (e.g. affluent communities and religious and fundamentalist groups); undocumented urban settlers; populations in areas near international and internal borders; refugees, internally displaced persons and other transient populations
+
+We need to maintain categorical data so that we are ready to quantifiably deal with the scarcity of vaccines.  The data need to be maintained nationwide bifurcating it state and area-wise, this is the perfect timing to make such data as we are not far from getting the vaccine. A community’s need for vaccines is twofold. All those who must rebuild essential activities i.e., economic, education, trade, transport must be protected and taken care of on the priority grounds.  To eradicate novel coronavirus India needs to plan strategically and uniquely simultaneously to achieve the desired result.
+
+## Main approach to distribute vaccine should be:
+
+1. Identifying and reaching populations requiring special planning and the use of informal channels and collaboration with community leaders (traditional healers, religious and opinion leaders, others), local volunteers, and NGOs active in the community.
+2. Decide on the most appropriate vaccination strategy.
+3. Include efforts/strategies to reach these groups ensuring resources are available for social mobilization, cold chain and vaccine logistics, transportation (vehicles and fuel) and security for specific situations.
+
+## DETERMINING APPROPRIATE VACCINATION STRATEGY FOR HIGHER COVERAGE
+
+### Fixed post
+
+Fixed and mobile vaccination posts can prove to be an effective setting where community has no significant concerns about the safety or effectiveness of the vaccine, there is awareness about the disease, and where social mobilization and interpersonal communication can fully be implemented. Ideally, each vaccination team should include two health care workers (one for reconstitution, one for vaccination), and one or two additional community-based volunteers as announcers who engage the community to come to the vaccination posts. These posts should be located at a permanent health facility center and community health posts. Immunization services must be provided at the health facilities the whole day. These sites should also serve as depots for the storage and distribution of vaccines to temporary vaccination sites and mobile teams. Permanent vaccination posts are particularly useful in urban areas and rural areas with concentrated populations
+
+### Temporary or mobile vaccination post
+
+These posts should be identified in advance and maybe set up at schools, churches, mosques, local administrators’ offices, bus depots, roadblocks, market areas, border crossing points, village squares, etc. Posts used as outreach clinics can also be used to establish temporary vaccination posts. Villages and settlements with small populations may also be served through such temporary sites. At these posts, immunization should be provided for the time estimated to complete the vaccination of the targeted population. Usually, one vaccination team is assigned to each post. School vaccination teams, health care workers, vaccination teams, and teams for vaccination of special populations are considered for staffing temporary posts.
+
+## USAGE OF TECHNOLOGY FOR IMPLEMENTATION OF AFOREMENTIONED STRATEGY
+
+Technology as a tool of governance has already transformed many areas especially in times of COVID-19. The disease propelled as a test of digital mechanisms of response in moments of crisis. Monitoring has been made easier by the Aarogya Setu app and various contact tracing applications around the world. It helped in identifying, assessing, and managing people who have been exposed to the virus to prevent further transmission. Aarogya Setu to a large extent has aided to break the chains of transmission of COVID-19. The next step to combat the virus is to develop an equitable supply chain for COVID-19 vaccine distribution once we have an effective vaccine for the virus.
+
+To enhance the quality of vaccines and supply chain, the Government Of India has effectively introduced the indigenously developed eVIN (Electronic Vaccine Intelligence Network) which seeks to ensure the supply of vaccines and cold chain maintenance through technological solutions. It provides information on vaccine stocks and flows. Blockchain technology can further help to develop a better strategy of the equitable COVID-19 vaccine distribution. Rather than storing data in one central repository or application, blockchain application is a decentralised system which distributes data across a network where it can be viewed and reviewed, but not altered, creating a permanent data log that can easily be tracked and referenced. So, if a person gets vaccinated, their record will be stored in a permanent database which can be viewed by anyone anywhere across the network. Similarly, new user information can be added easily in the system by anyone. The adding and viewing person profile is done by private-public key addresses of the blockchain system. A person's Aadhar number or similar id can be used to generate keys to make it easier to track and trace the vaccination process. This vaccine blockchain system is designed to support smart vaccine traceability and can further be used to address the problems of vaccine expiration and vaccine record fraud.

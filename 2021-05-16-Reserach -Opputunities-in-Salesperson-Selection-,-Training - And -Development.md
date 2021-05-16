@@ -2,7 +2,7 @@
 layout:     post
 title:      RESEARCH OPPORTUNITIES IN SALESPERSON SELECTION, TRAINING, AND DEVELOPMENT
 date:       2021-05-16
-summary:    
+summary:   selection, training and development, salesperson  
 categories: blog
 ---
 Customers expect salespeople to be more knowledgeable, respond more quickly, and give value-added, tailored solutions to their concerns. To do so, salespeople must form closer, longer-term ties with their clients than they have in the past. The nature of the salesperson's relationship with his or her company has changed dramatically. This viewpoint emerges from the rejection of a hierarchical and one-sided view of salespeople as contract employees hired by an organisation to serve its selling goals.

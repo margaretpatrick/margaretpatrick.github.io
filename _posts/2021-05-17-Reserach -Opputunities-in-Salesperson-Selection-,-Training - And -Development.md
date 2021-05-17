@@ -16,7 +16,7 @@ Salespeople are questioning the value of traditional TD programmes in an increas
 Salespeople frequently believe that interacting with customers allows them to learn more effectively than sitting in a training room, and that traditional TD programmes are ineffective 
 Knowledge, skill Ability (Task, Growth, Meta)
  
-Source : Google
+
 
 Task-related KSAs typically refer to essential elements that a salesperson must possess in order to begin selling the company's offerings. Such programmes' underlying theory is based on a behavioural approach to selling. The approach is motivated by the desire to influence a behavioural change in the modelling, role playing, and reinforcing fundamentals The emphasis is not on comprehending the mental state. or the psychological or motivational underpinnings of this behavioural change
 Their effectiveness is relatively simple to determine.
